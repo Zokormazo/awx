@@ -37,3 +37,4 @@ require('ng-toast-provider');
 require('ng-toast-directives');
 require('ng-toast');
 require('lr-infinite-scroll');
+require('babel-polyfill');
